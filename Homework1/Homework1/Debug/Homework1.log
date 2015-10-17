@@ -1,0 +1,165 @@
+﻿Build started 1/5/2015 12:24:51 PM.
+     1>Project "C:\Users\Ritesh\Desktop\Fall2014_Books_&_Notes\Geometeric Modeling\Project_1_Ritesh_Sharma\Homework1\Homework1\Homework1\Homework1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework1\Opengl\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt eig3.cpp icVector.cpp learnply.cpp ply.cpp tmatrix.cpp trackball.cpp
+         trackball.cpp
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(110): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(111): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(125): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(126): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(187): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(233): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(354): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(406): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(407): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(418): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(424): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(437): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(438): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(455): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(478): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(536): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(537): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(538): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(541): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(542): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(543): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(546): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(547): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\trackball.cpp(548): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         tmatrix.cpp
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\tmatrix.cpp(165): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\tmatrix.cpp(166): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\tmatrix.cpp(167): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\tmatrix.cpp(168): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         ply.cpp
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(175): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : see declaration of 'strdup'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(214): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(217): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : see declaration of 'strcat'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(221): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(207): warning C4101: 'elem' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(205): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(350): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(352): warning C4101: 'prop' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(476): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(672): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(707): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : see declaration of 'strdup'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(747): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(750): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : see declaration of 'strcat'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(754): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(1080): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : see declaration of 'strdup'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(1206): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : see declaration of 'strdup'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(1321): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(1358): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : see declaration of 'strcat'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(1360): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : see declaration of 'strcat'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(1528): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : see declaration of 'strdup'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(1427): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(1562): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(1714): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(1714): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(1926): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(2035): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(2036): warning C4244: '=' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(2040): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(2041): warning C4244: '=' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(2117): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(2118): warning C4244: '=' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(2123): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(2124): warning C4244: '=' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(2242): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(2270): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : see declaration of 'strdup'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(2339): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : see declaration of 'strdup'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(2345): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : see declaration of 'strdup'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(2350): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : see declaration of 'strdup'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(2328): warning C4101: 'count_type' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(2327): warning C4101: 'prop_type' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(2417): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : see declaration of 'strdup'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(2531): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : see declaration of 'strdup'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(2557): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : see declaration of 'strdup'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(2597): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : see declaration of 'strdup'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(2776): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(2778): warning C4101: 'prop' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(3061): warning C4101: 'count' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(3060): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\ply.cpp(3270): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(241) : see declaration of 'strdup'
+         learnply.cpp
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(189): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(415): warning C4101: 'elem_count' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(416): warning C4101: 'elem_name' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(928): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(929): warning C4101: 'elem_count' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(930): warning C4101: 'elem_name' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(928): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(1268): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(1805): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(1910): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(1927): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(1936): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(2419): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(2426): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(2428): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(2462): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(2463): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(2496): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(2550): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(2650): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(2723): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(3536): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(3632): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(3690): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(3764): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(3852): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(3939): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(4020): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(4165): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(4302): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(4432): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(2693): warning C4101: 'v3' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(2691): warning C4101: 'v1' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(2692): warning C4101: 'v2' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(4575): warning C4101: 'minorigen' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(5090): warning C4101: 'b' : unreferenced local variable
+     1>c:\users\ritesh\desktop\fall2014_books_&_notes\geometeric modeling\project_1_ritesh_sharma\homework1\homework1\homework1\learnply.cpp(5090): warning C4101: 'z' : unreferenced local variable
+         icVector.cpp
+         eig3.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ritesh\Desktop\Fall2014_Books_&_Notes\Geometeric Modeling\Project_1_Ritesh_Sharma\Homework1\Homework1\Debug\Homework1.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework1\Opengl\lib" glu32.lib glut32.lib opengl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ritesh\Desktop\Fall2014_Books_&_Notes\Geometeric Modeling\Project_1_Ritesh_Sharma\Homework1\Homework1\Debug\Homework1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ritesh\Desktop\Fall2014_Books_&_Notes\Geometeric Modeling\Project_1_Ritesh_Sharma\Homework1\Homework1\Debug\Homework1.lib" /MACHINE:X86 Debug\eig3.obj
+         Debug\icVector.obj
+         Debug\learnply.obj
+         Debug\ply.obj
+         Debug\tmatrix.obj
+         Debug\trackball.obj
+         Homework1.vcxproj -> C:\Users\Ritesh\Desktop\Fall2014_Books_&_Notes\Geometeric Modeling\Project_1_Ritesh_Sharma\Homework1\Homework1\Debug\Homework1.exe
+     1>Done Building Project "C:\Users\Ritesh\Desktop\Fall2014_Books_&_Notes\Geometeric Modeling\Project_1_Ritesh_Sharma\Homework1\Homework1\Homework1\Homework1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.95

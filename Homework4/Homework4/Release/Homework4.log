@@ -1,0 +1,80 @@
+﻿Build started 12/4/2014 2:21:24 AM.
+     1>Project "C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework4\Homework4\Homework4.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework4\Opengl\include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\Homework1\Homework1\learnply.cpp
+         learnply.cpp
+     1>..\..\Homework1\Homework1\learnply.cpp(273): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : see declaration of 'scanf'
+     1>..\..\Homework1\Homework1\learnply.cpp(312): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : see declaration of 'scanf'
+     1>..\..\Homework1\Homework1\learnply.cpp(319): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : see declaration of 'fopen'
+     1>..\..\Homework1\Homework1\learnply.cpp(340): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : see declaration of 'fopen'
+     1>..\..\Homework1\Homework1\learnply.cpp(8978): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(357) : see declaration of 'sprintf'
+     1>..\..\Homework1\Homework1\learnply.cpp(9871): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\Homework1\Homework1\learnply.cpp(9970): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\Homework1\Homework1\learnply.cpp(9987): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\Homework1\Homework1\learnply.cpp(9996): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\Homework1\Homework1\learnply.cpp(10189): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : see declaration of 'fopen'
+     1>..\..\Homework1\Homework1\learnply.cpp(10196): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : see declaration of 'fopen'
+     1>..\..\Homework1\Homework1\learnply.cpp(10198): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : see declaration of 'fscanf'
+     1>..\..\Homework1\Homework1\learnply.cpp(10232): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>..\..\Homework1\Homework1\learnply.cpp(10233): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>..\..\Homework1\Homework1\learnply.cpp(10266): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>..\..\Homework1\Homework1\learnply.cpp(10320): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\Homework1\Homework1\learnply.cpp(10873): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\Homework1\Homework1\learnply.cpp(10951): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\Homework1\Homework1\learnply.cpp(10993): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\Homework1\Homework1\learnply.cpp(11040): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\Homework1\Homework1\learnply.cpp(11134): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\Homework1\Homework1\learnply.cpp(11230): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\Homework1\Homework1\learnply.cpp(11300): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\Homework1\Homework1\learnply.cpp(11306): warning C4258: 'j' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 ..\..\Homework1\Homework1\learnply.cpp(11246) : definition of 'j' ignored
+                 ..\..\Homework1\Homework1\learnply.cpp(10913) : definition of 'j' used
+     1>..\..\Homework1\Homework1\learnply.cpp(11308): warning C4258: 'j' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 ..\..\Homework1\Homework1\learnply.cpp(11246) : definition of 'j' ignored
+                 ..\..\Homework1\Homework1\learnply.cpp(10913) : definition of 'j' used
+     1>..\..\Homework1\Homework1\learnply.cpp(11361): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\Homework1\Homework1\learnply.cpp(11411): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\Homework1\Homework1\learnply.cpp(11433): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\Homework1\Homework1\learnply.cpp(11459): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\Homework1\Homework1\learnply.cpp(11499): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\Homework1\Homework1\learnply.cpp(11551): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\Homework1\Homework1\learnply.cpp(11679): warning C4018: '<' : signed/unsigned mismatch
+     1>..\..\Homework1\Homework1\learnply.cpp(11685): warning C4258: 'j' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 ..\..\Homework1\Homework1\learnply.cpp(11582) : definition of 'j' ignored
+                 ..\..\Homework1\Homework1\learnply.cpp(10913) : definition of 'j' used
+     1>..\..\Homework1\Homework1\learnply.cpp(11687): warning C4258: 'j' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 ..\..\Homework1\Homework1\learnply.cpp(11582) : definition of 'j' ignored
+                 ..\..\Homework1\Homework1\learnply.cpp(10913) : definition of 'j' used
+     1>..\..\Homework1\Homework1\learnply.cpp(10937): warning C4101: 'v3' : unreferenced local variable
+     1>..\..\Homework1\Homework1\learnply.cpp(10935): warning C4101: 'v1' : unreferenced local variable
+     1>..\..\Homework1\Homework1\learnply.cpp(10936): warning C4101: 'v2' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework4\Release\Homework4.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework4\Opengl\lib" opengl32.lib glu32.lib glut32.lib SOIL.lib svl.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework4\Release\Homework4.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework4\Release\Homework4.lib" /MACHINE:X86 /SAFESEH:NO Release\eig3.obj
+         Release\icVector.obj
+         Release\learnply.obj
+         Release\ply.obj
+         Release\tmatrix.obj
+         Release\trackball.obj
+     1>SOIL.lib(SOIL.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+         Generating code
+         Finished generating code
+     1>SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework4\Release\vc100.pdb'; linking object as if no debug info
+     1>SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework4\Release\vc100.pdb'; linking object as if no debug info
+     1>SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework4\Release\vc100.pdb'; linking object as if no debug info
+     1>SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework4\Release\vc100.pdb'; linking object as if no debug info
+     1>svl.lib(Basics.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'svl.lib(Basics.obj)' or at 'C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework4\Release\vc110.pdb'; linking object as if no debug info
+     1>svl.lib(LibSVL.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'svl.lib(LibSVL.obj)' or at 'C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework4\Release\vc110.pdb'; linking object as if no debug info
+         Homework4.vcxproj -> C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework4\Release\Homework4.exe
+     1>Done Building Project "C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework4\Homework4\Homework4.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.67

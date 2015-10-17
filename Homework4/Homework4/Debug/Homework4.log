@@ -1,0 +1,74 @@
+﻿Build started 12/3/2014 5:43:00 PM.
+     1>Project "C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework4\Homework4\Homework4.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework4\Opengl\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\Homework1\Homework1\learnply.cpp
+         learnply.cpp
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(275): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(314): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(321): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(365): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(9051): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(9783): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(9792): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(9824): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(9944): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(10043): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(10060): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(10069): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(10262): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(10269): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(10271): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : see declaration of 'fscanf'
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(10305): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(10306): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(10339): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(10393): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(10946): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11024): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11066): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11113): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11207): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11303): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11373): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11379): warning C4258: 'j' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11319) : definition of 'j' ignored
+                 c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(10986) : definition of 'j' used
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11381): warning C4258: 'j' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11319) : definition of 'j' ignored
+                 c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(10986) : definition of 'j' used
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11434): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11488): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11510): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11541): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11581): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11633): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11761): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11767): warning C4258: 'j' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11664) : definition of 'j' ignored
+                 c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(10986) : definition of 'j' used
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11769): warning C4258: 'j' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11664) : definition of 'j' ignored
+                 c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(10986) : definition of 'j' used
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11010): warning C4101: 'v3' : unreferenced local variable
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11008): warning C4101: 'v1' : unreferenced local variable
+     1>c:\users\ritesh\documents\visual studio 2012\projects\homework1\homework1\learnply.cpp(11009): warning C4101: 'v2' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework4\Debug\Homework4.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework4\Opengl\lib" opengl32.lib glu32.lib glut32.lib SOIL.lib svl.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework4\Debug\Homework4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework4\Debug\Homework4.lib" /MACHINE:X86 Debug\eig3.obj
+         Debug\icVector.obj
+         Debug\learnply.obj
+         Debug\ply.obj
+         Debug\tmatrix.obj
+         Debug\trackball.obj
+         Homework4.vcxproj -> C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework4\Debug\Homework4.exe
+     1>Done Building Project "C:\Users\Ritesh\Documents\Visual Studio 2012\Projects\Homework4\Homework4\Homework4.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.93
